@@ -6,7 +6,7 @@
 
 	<filter>
 		<filter-name>JSONRPCFilter</filter-name>
-		<filter-class>com.jsonrpc.InitFilter</filter-class>
+		<filter-class>com.jsonrpc.core.InitFilter</filter-class>
 	</filter>
 	<filter-mapping>
 		<filter-name>JSONRPCFilter</filter-name>
